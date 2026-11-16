@@ -1,0 +1,382 @@
+[
+  {
+    "tipoCaso": "BRECHA_EN_MODO_BOT",
+    "usuarioAnonimo": "USR_8381",
+    "paso": 3,
+    "yaTuvoPrueba": true,
+    "consultaCliente": "Salí de apuro y me olvidé",
+    "resolucionOperador": "Sin intervención de operador",
+    "intencionActual": "DESCONOCIDO",
+    "hiloFormateado": "   👨‍💻 OPERADOR: \"se puede compartir internet, al televisor, a otro celular y a una computadora\"\n   👤 CLIENTE: \"Me olvidé no conecte\"\n   👤 CLIENTE: \"Salí de apuro y me olvidé\"\n   👨‍💻 OPERADOR: \"si desea volver a intentar hacer la prueba me puede avisar, quedo a su disposición 🙌🏻\"\n   👤 CLIENTE: \"Dale mañana asemos si con tiempo te escribo mañana y asemos\"\n   👨‍💻 OPERADOR: \"buenísimo, espero su mensaje\""
+  },
+  {
+    "tipoCaso": "BRECHA_EN_MODO_BOT",
+    "usuarioAnonimo": "USR_8381",
+    "paso": 3,
+    "yaTuvoPrueba": true,
+    "consultaCliente": "Dale mañana asemos si con tiempo te escribo mañana y asemos",
+    "resolucionOperador": "Sin intervención de operador",
+    "intencionActual": "DESCONOCIDO",
+    "hiloFormateado": "   👤 CLIENTE: \"Salí de apuro y me olvidé\"\n   👨‍💻 OPERADOR: \"si desea volver a intentar hacer la prueba me puede avisar, quedo a su disposición 🙌🏻\"\n   👤 CLIENTE: \"Dale mañana asemos si con tiempo te escribo mañana y asemos\"\n   👨‍💻 OPERADOR: \"buenísimo, espero su mensaje\"\n   👤 CLIENTE: \"Ok\""
+  },
+  {
+    "tipoCaso": "BRECHA_EN_MODO_BOT",
+    "usuarioAnonimo": "USR_6952",
+    "paso": 0,
+    "yaTuvoPrueba": false,
+    "consultaCliente": "Si ahora entiendo vuelvo a la aplicación",
+    "resolucionOperador": "Sin intervención de operador",
+    "intencionActual": "DESCONOCIDO",
+    "hiloFormateado": "   👨‍💻 OPERADOR: \"si usted desea puede volver a conectarse con el mismo usuario\"\n   👨‍💻 OPERADOR: \"porte1211\"\n   👤 CLIENTE: \"Si ahora entiendo vuelvo a la aplicación\"\n   👨‍💻 OPERADOR: \"si, si la aplicación se desconecta con el tiempo puede volver a conectarla mientras dure la prueba\"\n   👨‍💻 OPERADOR: \"su prueba dura hasta las 17:29, luego si desea comprar me avisa y el bot le envía los precios\"\n   👤 CLIENTE: \"Ok\""
+  },
+  {
+    "tipoCaso": "BRECHA_EN_MODO_BOT",
+    "usuarioAnonimo": "USR_5336",
+    "paso": 0,
+    "yaTuvoPrueba": true,
+    "consultaCliente": "Dale gracias",
+    "resolucionOperador": "Sin intervención de operador",
+    "intencionActual": "DESCONOCIDO",
+    "hiloFormateado": "   👨‍💻 OPERADOR: \"ahora te paso tu nuevo usuario\"\n   👤 CLIENTE: \"Buenas noches\"\n   👤 CLIENTE: \"Dale gracias\"\n   🤖 BOT: \"🎉 *¡PLAN MNET VPN ACTIVADO CON ÉXITO!* 🎉 👤 *Usuario:* `mnet1511` 🔐 *Contraseña:* `mnet1511` 📅 *Plan contratado:* 7 días ilimitados ⏰ *Vencimiento:* 22/11/2026 00:54 hs *RESPETA MAYUSCULAS Y MINUSCULAS AL PONER TUS CREDENCIALES* ⚠️ `Utiliza el Servidor Personal ULTRA 1 o 2, para conectarte.`\"\n   🤖 BOT: \"mnet1511\"\n   🤖 BOT: \"¡Muchas gracias por tu confianza! 🙌🏻 Copiá y pegá esos dos datos en la app. Cualquier consulta durante tu plan me escribís por acá. 🚀👍\""
+  },
+  {
+    "tipoCaso": "BRECHA_EN_MODO_BOT",
+    "usuarioAnonimo": "USR_9342",
+    "paso": 0,
+    "yaTuvoPrueba": true,
+    "consultaCliente": "Dale",
+    "resolucionOperador": "Sin intervención de operador",
+    "intencionActual": "DESCONOCIDO",
+    "hiloFormateado": "   👨‍💻 OPERADOR: \"bruno1411\"\n   👨‍💻 OPERADOR: \"fijate si te podes conectar y avisame si pudiste\"\n   👤 CLIENTE: \"Dale\"\n   👨‍💻 OPERADOR: \"pudiste conectarte?\"\n   👤 CLIENTE: \"Ay me conecte recién\"\n   👨‍💻 OPERADOR: \"Buenisimo, tenes 12hs hasta que se vence la prueba\""
+  },
+  {
+    "tipoCaso": "BRECHA_EN_MODO_BOT",
+    "usuarioAnonimo": "USR_9342",
+    "paso": 0,
+    "yaTuvoPrueba": true,
+    "consultaCliente": "Ay me conecte recién",
+    "resolucionOperador": "Sin intervención de operador",
+    "intencionActual": "DESCONOCIDO",
+    "hiloFormateado": "   👤 CLIENTE: \"Dale\"\n   👨‍💻 OPERADOR: \"pudiste conectarte?\"\n   👤 CLIENTE: \"Ay me conecte recién\"\n   👨‍💻 OPERADOR: \"Buenisimo, tenes 12hs hasta que se vence la prueba\"\n   👤 CLIENTE: \"Sería mañana aquelra asta las 00\"\n   👨‍💻 OPERADOR: \"te deje hasta mañana a las 9hs\""
+  },
+  {
+    "tipoCaso": "BRECHA_EN_MODO_BOT",
+    "usuarioAnonimo": "USR_9342",
+    "paso": 0,
+    "yaTuvoPrueba": true,
+    "consultaCliente": "Sería mañana aquelra asta las 00",
+    "resolucionOperador": "Sin intervención de operador",
+    "intencionActual": "DESCONOCIDO",
+    "hiloFormateado": "   👤 CLIENTE: \"Ay me conecte recién\"\n   👨‍💻 OPERADOR: \"Buenisimo, tenes 12hs hasta que se vence la prueba\"\n   👤 CLIENTE: \"Sería mañana aquelra asta las 00\"\n   👨‍💻 OPERADOR: \"te deje hasta mañana a las 9hs\"\n   👨‍💻 OPERADOR: \"si luego te interesa comprar me podes decir y el bot te va a explicar como hacerlo\"\n   👤 CLIENTE: \"Ok\""
+  },
+  {
+    "tipoCaso": "BRECHA_EN_MODO_BOT",
+    "usuarioAnonimo": "USR_3878",
+    "paso": 0,
+    "yaTuvoPrueba": true,
+    "consultaCliente": "Nenu bien",
+    "resolucionOperador": "Sin intervención de operador",
+    "intencionActual": "DESCONOCIDO",
+    "hiloFormateado": "   👨‍💻 OPERADOR: \"te funciono?\"\n   👨‍💻 OPERADOR: \"que te parecio el bot contestando?\"\n   👤 CLIENTE: \"Nenu bien\"\n   👤 CLIENTE: \"Anda bien\"\n   👤 CLIENTE: \"Lo que probé\"\n   👤 CLIENTE: \"Está bueno\""
+  },
+  {
+    "tipoCaso": "BRECHA_EN_MODO_BOT",
+    "usuarioAnonimo": "USR_3878",
+    "paso": 0,
+    "yaTuvoPrueba": true,
+    "consultaCliente": "Anda bien",
+    "resolucionOperador": "Sin intervención de operador",
+    "intencionActual": "DESCONOCIDO",
+    "hiloFormateado": "   👨‍💻 OPERADOR: \"que te parecio el bot contestando?\"\n   👤 CLIENTE: \"Nenu bien\"\n   👤 CLIENTE: \"Anda bien\"\n   👤 CLIENTE: \"Lo que probé\"\n   👤 CLIENTE: \"Está bueno\"\n   👤 CLIENTE: \"Te va a ayudar un montón\""
+  },
+  {
+    "tipoCaso": "BRECHA_EN_MODO_BOT",
+    "usuarioAnonimo": "USR_3878",
+    "paso": 0,
+    "yaTuvoPrueba": true,
+    "consultaCliente": "Lo que probé",
+    "resolucionOperador": "Sin intervención de operador",
+    "intencionActual": "DESCONOCIDO",
+    "hiloFormateado": "   👤 CLIENTE: \"Nenu bien\"\n   👤 CLIENTE: \"Anda bien\"\n   👤 CLIENTE: \"Lo que probé\"\n   👤 CLIENTE: \"Está bueno\"\n   👤 CLIENTE: \"Te va a ayudar un montón\"\n   👤 CLIENTE: \"Aunque siempre va a haber alguien que no entienda viste como es\""
+  },
+  {
+    "tipoCaso": "BRECHA_EN_MODO_BOT",
+    "usuarioAnonimo": "USR_3878",
+    "paso": 0,
+    "yaTuvoPrueba": true,
+    "consultaCliente": "Está bueno",
+    "resolucionOperador": "Sin intervención de operador",
+    "intencionActual": "DESCONOCIDO",
+    "hiloFormateado": "   👤 CLIENTE: \"Anda bien\"\n   👤 CLIENTE: \"Lo que probé\"\n   👤 CLIENTE: \"Está bueno\"\n   👤 CLIENTE: \"Te va a ayudar un montón\"\n   👤 CLIENTE: \"Aunque siempre va a haber alguien que no entienda viste como es\""
+  },
+  {
+    "tipoCaso": "BRECHA_EN_MODO_BOT",
+    "usuarioAnonimo": "USR_3878",
+    "paso": 0,
+    "yaTuvoPrueba": true,
+    "consultaCliente": "Te va a ayudar un montón",
+    "resolucionOperador": "Sin intervención de operador",
+    "intencionActual": "DESCONOCIDO",
+    "hiloFormateado": "   👤 CLIENTE: \"Lo que probé\"\n   👤 CLIENTE: \"Está bueno\"\n   👤 CLIENTE: \"Te va a ayudar un montón\"\n   👤 CLIENTE: \"Aunque siempre va a haber alguien que no entienda viste como es\""
+  },
+  {
+    "tipoCaso": "BRECHA_EN_MODO_BOT",
+    "usuarioAnonimo": "USR_3878",
+    "paso": 0,
+    "yaTuvoPrueba": true,
+    "consultaCliente": "Aunque siempre va a haber alguien que no entienda viste como es",
+    "resolucionOperador": "Sin intervención de operador",
+    "intencionActual": "DESCONOCIDO",
+    "hiloFormateado": "   👤 CLIENTE: \"Está bueno\"\n   👤 CLIENTE: \"Te va a ayudar un montón\"\n   👤 CLIENTE: \"Aunque siempre va a haber alguien que no entienda viste como es\""
+  },
+  {
+    "tipoCaso": "BRECHA_EN_MODO_BOT",
+    "usuarioAnonimo": "USR_3470",
+    "paso": 0,
+    "yaTuvoPrueba": true,
+    "consultaCliente": "Hola, ahí estoy tratando de entrar",
+    "resolucionOperador": "Sin intervención de operador",
+    "intencionActual": "DESCONOCIDO",
+    "hiloFormateado": "   👨‍💻 OPERADOR: \"si, tenés que cambiarlo por el último que te pase\"\n   👨‍💻 OPERADOR: \"ese último va a ser tu usuario definitivo\"\n   👤 CLIENTE: \"Hola, ahí estoy tratando de entrar\"\n   👨‍💻 OPERADOR: \"Buenísimo, cualquier cosa estoy a tu disposición\"\n   👤 CLIENTE: \"Ahí fue\"\n   👤 CLIENTE: \"Ya esta\""
+  },
+  {
+    "tipoCaso": "BRECHA_EN_MODO_BOT",
+    "usuarioAnonimo": "USR_3470",
+    "paso": 0,
+    "yaTuvoPrueba": true,
+    "consultaCliente": "Ahí fue",
+    "resolucionOperador": "Sin intervención de operador",
+    "intencionActual": "DESCONOCIDO",
+    "hiloFormateado": "   👤 CLIENTE: \"Hola, ahí estoy tratando de entrar\"\n   👨‍💻 OPERADOR: \"Buenísimo, cualquier cosa estoy a tu disposición\"\n   👤 CLIENTE: \"Ahí fue\"\n   👤 CLIENTE: \"Ya esta\"\n   👤 CLIENTE: \"Muchas gracias\"\n   🤖 BOT: \"¡Muchas gracias por confiar en *MNet VPN*! Cualquier consulta durante tu suscripción, escribinos por este medio. 🚀👍\""
+  },
+  {
+    "tipoCaso": "BRECHA_EN_MODO_BOT",
+    "usuarioAnonimo": "USR_3470",
+    "paso": 0,
+    "yaTuvoPrueba": true,
+    "consultaCliente": "Ya esta",
+    "resolucionOperador": "Sin intervención de operador",
+    "intencionActual": "DESCONOCIDO",
+    "hiloFormateado": "   👨‍💻 OPERADOR: \"Buenísimo, cualquier cosa estoy a tu disposición\"\n   👤 CLIENTE: \"Ahí fue\"\n   👤 CLIENTE: \"Ya esta\"\n   👤 CLIENTE: \"Muchas gracias\"\n   🤖 BOT: \"¡Muchas gracias por confiar en *MNet VPN*! Cualquier consulta durante tu suscripción, escribinos por este medio. 🚀👍\""
+  },
+  {
+    "tipoCaso": "BRECHA_EN_MODO_BOT",
+    "usuarioAnonimo": "USR_3470",
+    "paso": 0,
+    "yaTuvoPrueba": true,
+    "consultaCliente": "Muchas gracias",
+    "resolucionOperador": "Sin intervención de operador",
+    "intencionActual": "DESCONOCIDO",
+    "hiloFormateado": "   👤 CLIENTE: \"Ahí fue\"\n   👤 CLIENTE: \"Ya esta\"\n   👤 CLIENTE: \"Muchas gracias\"\n   🤖 BOT: \"¡Muchas gracias por confiar en *MNet VPN*! Cualquier consulta durante tu suscripción, escribinos por este medio. 🚀👍\""
+  },
+  {
+    "tipoCaso": "BRECHA_EN_MODO_BOT",
+    "usuarioAnonimo": "USR_0184",
+    "paso": 0,
+    "yaTuvoPrueba": false,
+    "consultaCliente": "La aplicación ya se encuentra disponible en la Playstore. 🚀 Aviso por si a algun cliente se le complica instalarla manualmente desde whatsapp. https://play.google.com/store/apps/details?id=com.dtunnel.lite.ultranettestes",
+    "resolucionOperador": "Sin intervención de operador",
+    "intencionActual": "DESCONOCIDO",
+    "hiloFormateado": "   👤 CLIENTE: \"#📺 TUTORIAL – VIVE ONLINE VPN 🚀 Cómo conectar tu Smart TV paso a paso 🔹 PASO 1: Descargar Downloader 📲 Ingresá a la tienda de aplicaciones de tu Smart TV. 🔎 Buscá Downloader, descargala e instalala. 🔹 PASO 2: Descargar Vive Online VPN 📥 Abrí la aplicación Downloader e ingresá el sigui\"\n   🤖 BOT: \"📎 *¡Captura / Archivo recibido!* Ya le avisé al operador para que revise tu captura de la aplicación y te responda personalmente en unos minutos. ¡Aguardame un toque! 🙌🏻\"\n   👤 CLIENTE: \"La aplicación ya se encuentra disponible en la Playstore. 🚀 Aviso por si a algun cliente se le complica instalarla manualmente desde whatsapp. https://play.google.com/store/apps/details?id=com.dtunnel.lite.ultranettestes\"\n   👤 CLIENTE: \"👋 ¡Bienvenido al Canal Oficial de Estado y Avisos! Acá vamos a estar informando mantenimientos de servidores, nuevas actualizaciones de configuración y trucos para que tu conexión vuele siempre. 🔔 Importante: Tocá la campanita arriba a la derecha para activar las notificaciones. Solo mandamos me\"\n   👤 CLIENTE: \"🛠️ GUÍA RÁPIDA DE SOLUCIÓN DE PROBLEMAS Si en algún momento sentís que no tenés internet o no te conecta, probá estos 3 pasos antes de contactar a soporte (resuelven el 95% de los casos): 1️⃣ El truco del Modo Avión (Si conecta pero no navega): Activalo, esperá 5 segundos reales y desactivalo. Est\"\n   👤 CLIENTE: \"🔋 ¿Se te desconecta cuando bloqueás la pantalla? Solucionalo así: Muchos celulares vienen configurados de fábrica para \"matar\" las aplicaciones en segundo plano y ahorrar batería, lo que hace que se te corte el internet cuando guardás el teléfono en el bolsillo. Para dejarlo fijo y que no se cort\""
+  },
+  {
+    "tipoCaso": "BRECHA_EN_MODO_BOT",
+    "usuarioAnonimo": "USR_0184",
+    "paso": 0,
+    "yaTuvoPrueba": false,
+    "consultaCliente": "👋 ¡Bienvenido al Canal Oficial de Estado y Avisos! Acá vamos a estar informando mantenimientos de servidores, nuevas actualizaciones de configuración y trucos para que tu conexión vuele siempre. 🔔 Importante: Tocá la campanita arriba a la derecha para activar las notificaciones. Solo mandamos me",
+    "resolucionOperador": "Sin intervención de operador",
+    "intencionActual": "DESCONOCIDO",
+    "hiloFormateado": "   🤖 BOT: \"📎 *¡Captura / Archivo recibido!* Ya le avisé al operador para que revise tu captura de la aplicación y te responda personalmente en unos minutos. ¡Aguardame un toque! 🙌🏻\"\n   👤 CLIENTE: \"La aplicación ya se encuentra disponible en la Playstore. 🚀 Aviso por si a algun cliente se le complica instalarla manualmente desde whatsapp. https://play.google.com/store/apps/details?id=com.dtunnel.lite.ultranettestes\"\n   👤 CLIENTE: \"👋 ¡Bienvenido al Canal Oficial de Estado y Avisos! Acá vamos a estar informando mantenimientos de servidores, nuevas actualizaciones de configuración y trucos para que tu conexión vuele siempre. 🔔 Importante: Tocá la campanita arriba a la derecha para activar las notificaciones. Solo mandamos me\"\n   👤 CLIENTE: \"🛠️ GUÍA RÁPIDA DE SOLUCIÓN DE PROBLEMAS Si en algún momento sentís que no tenés internet o no te conecta, probá estos 3 pasos antes de contactar a soporte (resuelven el 95% de los casos): 1️⃣ El truco del Modo Avión (Si conecta pero no navega): Activalo, esperá 5 segundos reales y desactivalo. Est\"\n   👤 CLIENTE: \"🔋 ¿Se te desconecta cuando bloqueás la pantalla? Solucionalo así: Muchos celulares vienen configurados de fábrica para \"matar\" las aplicaciones en segundo plano y ahorrar batería, lo que hace que se te corte el internet cuando guardás el teléfono en el bolsillo. Para dejarlo fijo y que no se cort\"\n   👤 CLIENTE: \"✈️ TIP RÁPIDO: ¿Conectado pero sin internet? A veces las antenas de tu zona se saturan o se \"congela\" el tráfico de datos aunque la app diga que estás conectado. No hace falta reinstalar nada: Desconectá la app. Prendé el Modo Avión ✈️. Contá hasta 5 y apagalo. Volvé a darle a Conectar cuando\""
+  },
+  {
+    "tipoCaso": "BRECHA_EN_MODO_BOT",
+    "usuarioAnonimo": "USR_0184",
+    "paso": 0,
+    "yaTuvoPrueba": false,
+    "consultaCliente": "🔋 ¿Se te desconecta cuando bloqueás la pantalla? Solucionalo así: Muchos celulares vienen configurados de fábrica para \"matar\" las aplicaciones en segundo plano y ahorrar batería, lo que hace que se te corte el internet cuando guardás el teléfono en el bolsillo. Para dejarlo fijo y que no se cort",
+    "resolucionOperador": "Sin intervención de operador",
+    "intencionActual": "DESCONOCIDO",
+    "hiloFormateado": "   👤 CLIENTE: \"👋 ¡Bienvenido al Canal Oficial de Estado y Avisos! Acá vamos a estar informando mantenimientos de servidores, nuevas actualizaciones de configuración y trucos para que tu conexión vuele siempre. 🔔 Importante: Tocá la campanita arriba a la derecha para activar las notificaciones. Solo mandamos me\"\n   👤 CLIENTE: \"🛠️ GUÍA RÁPIDA DE SOLUCIÓN DE PROBLEMAS Si en algún momento sentís que no tenés internet o no te conecta, probá estos 3 pasos antes de contactar a soporte (resuelven el 95% de los casos): 1️⃣ El truco del Modo Avión (Si conecta pero no navega): Activalo, esperá 5 segundos reales y desactivalo. Est\"\n   👤 CLIENTE: \"🔋 ¿Se te desconecta cuando bloqueás la pantalla? Solucionalo así: Muchos celulares vienen configurados de fábrica para \"matar\" las aplicaciones en segundo plano y ahorrar batería, lo que hace que se te corte el internet cuando guardás el teléfono en el bolsillo. Para dejarlo fijo y que no se cort\"\n   👤 CLIENTE: \"✈️ TIP RÁPIDO: ¿Conectado pero sin internet? A veces las antenas de tu zona se saturan o se \"congela\" el tráfico de datos aunque la app diga que estás conectado. No hace falta reinstalar nada: Desconectá la app. Prendé el Modo Avión ✈️. Contá hasta 5 y apagalo. Volvé a darle a Conectar cuando\"\n   👤 CLIENTE: \"#📺 TUTORIAL – VIVE ONLINE VPN 🚀 Cómo conectar tu Smart TV paso a paso 🔹 PASO 1: Descargar Downloader 📲 Ingresá a la tienda de aplicaciones de tu Smart TV. 🔎 Buscá Downloader, descargala e instalala. 🔹 PASO 2: Descargar Vive Online VPN 📥 Abrí la aplicación Downloader e ingresá el sigui\"\n   👤 CLIENTE: \"#📺 TUTORIAL – VIVE ONLINE VPN 🚀 Cómo conectar tu Smart TV paso a paso 🔹 PASO 1: Descargar Downloader 📲 Ingresá a la tienda de aplicaciones de tu Smart TV. 🔎 Buscá Downloader, descargala e instalala. 🔹 PASO 2: Descargar Vive Online VPN 📥 Abrí la aplicación Downloader e ingresá el sigui\""
+  },
+  {
+    "tipoCaso": "BRECHA_EN_MODO_BOT",
+    "usuarioAnonimo": "USR_0184",
+    "paso": 0,
+    "yaTuvoPrueba": false,
+    "consultaCliente": "✈️ TIP RÁPIDO: ¿Conectado pero sin internet? A veces las antenas de tu zona se saturan o se \"congela\" el tráfico de datos aunque la app diga que estás conectado. No hace falta reinstalar nada: Desconectá la app. Prendé el Modo Avión ✈️. Contá hasta 5 y apagalo. Volvé a darle a Conectar cuando",
+    "resolucionOperador": "Sin intervención de operador",
+    "intencionActual": "DESCONOCIDO",
+    "hiloFormateado": "   👤 CLIENTE: \"🛠️ GUÍA RÁPIDA DE SOLUCIÓN DE PROBLEMAS Si en algún momento sentís que no tenés internet o no te conecta, probá estos 3 pasos antes de contactar a soporte (resuelven el 95% de los casos): 1️⃣ El truco del Modo Avión (Si conecta pero no navega): Activalo, esperá 5 segundos reales y desactivalo. Est\"\n   👤 CLIENTE: \"🔋 ¿Se te desconecta cuando bloqueás la pantalla? Solucionalo así: Muchos celulares vienen configurados de fábrica para \"matar\" las aplicaciones en segundo plano y ahorrar batería, lo que hace que se te corte el internet cuando guardás el teléfono en el bolsillo. Para dejarlo fijo y que no se cort\"\n   👤 CLIENTE: \"✈️ TIP RÁPIDO: ¿Conectado pero sin internet? A veces las antenas de tu zona se saturan o se \"congela\" el tráfico de datos aunque la app diga que estás conectado. No hace falta reinstalar nada: Desconectá la app. Prendé el Modo Avión ✈️. Contá hasta 5 y apagalo. Volvé a darle a Conectar cuando\"\n   👤 CLIENTE: \"#📺 TUTORIAL – VIVE ONLINE VPN 🚀 Cómo conectar tu Smart TV paso a paso 🔹 PASO 1: Descargar Downloader 📲 Ingresá a la tienda de aplicaciones de tu Smart TV. 🔎 Buscá Downloader, descargala e instalala. 🔹 PASO 2: Descargar Vive Online VPN 📥 Abrí la aplicación Downloader e ingresá el sigui\"\n   👤 CLIENTE: \"#📺 TUTORIAL – VIVE ONLINE VPN 🚀 Cómo conectar tu Smart TV paso a paso 🔹 PASO 1: Descargar Downloader 📲 Ingresá a la tienda de aplicaciones de tu Smart TV. 🔎 Buscá Downloader, descargala e instalala. 🔹 PASO 2: Descargar Vive Online VPN 📥 Abrí la aplicación Downloader e ingresá el sigui\"\n   👤 CLIENTE: \"La aplicacion ya se encuentra disponible en la playstore. 🚀 Aviso por si a algun cliente se le complica instalarla manualmente desde whatsapp. https://play.google.com/store/apps/details?id=com.dtunnel.lite.ultranettestes\""
+  },
+  {
+    "tipoCaso": "BRECHA_EN_MODO_BOT",
+    "usuarioAnonimo": "USR_0184",
+    "paso": 0,
+    "yaTuvoPrueba": false,
+    "consultaCliente": "La aplicacion ya se encuentra disponible en la playstore. 🚀 Aviso por si a algun cliente se le complica instalarla manualmente desde whatsapp. https://play.google.com/store/apps/details?id=com.dtunnel.lite.ultranettestes",
+    "resolucionOperador": "Sin intervención de operador",
+    "intencionActual": "DESCONOCIDO",
+    "hiloFormateado": "   👤 CLIENTE: \"#📺 TUTORIAL – VIVE ONLINE VPN 🚀 Cómo conectar tu Smart TV paso a paso 🔹 PASO 1: Descargar Downloader 📲 Ingresá a la tienda de aplicaciones de tu Smart TV. 🔎 Buscá Downloader, descargala e instalala. 🔹 PASO 2: Descargar Vive Online VPN 📥 Abrí la aplicación Downloader e ingresá el sigui\"\n   👤 CLIENTE: \"#📺 TUTORIAL – VIVE ONLINE VPN 🚀 Cómo conectar tu Smart TV paso a paso 🔹 PASO 1: Descargar Downloader 📲 Ingresá a la tienda de aplicaciones de tu Smart TV. 🔎 Buscá Downloader, descargala e instalala. 🔹 PASO 2: Descargar Vive Online VPN 📥 Abrí la aplicación Downloader e ingresá el sigui\"\n   👤 CLIENTE: \"La aplicacion ya se encuentra disponible en la playstore. 🚀 Aviso por si a algun cliente se le complica instalarla manualmente desde whatsapp. https://play.google.com/store/apps/details?id=com.dtunnel.lite.ultranettestes\""
+  },
+  {
+    "tipoCaso": "BRECHA_EN_MODO_BOT",
+    "usuarioAnonimo": "USR_8800",
+    "paso": 0,
+    "yaTuvoPrueba": true,
+    "consultaCliente": "Dale gracias",
+    "resolucionOperador": "Sin intervención de operador",
+    "intencionActual": "DESCONOCIDO",
+    "hiloFormateado": "   👤 CLIENTE: \"Dale gracias\"\n   🤖 BOT: \"¡Genial! Cualquier duda o problema cuando estés probando me podés avisar por acá, quedo a tu servicio. 🚀🙌🏻\"\n   🤖 BOT: \"¡Hola! 👋 Te avisamos que quedan pocas horas (aprox. *4 hs*) para que finalice tu prueba gratuita de *MNet VPN* (usuario `mnet4198`). ¿Cómo ha sido tu experiencia con la conexión hasta el momento? 🚀 • 💳 Si deseás *activar un plan* para continuar navegando sin cortes (3 días x $2.000, 7 días x $3\"\n   👤 CLIENTE: \"2\""
+  },
+  {
+    "tipoCaso": "BRECHA_EN_MODO_BOT",
+    "usuarioAnonimo": "USR_9910",
+    "paso": 3,
+    "yaTuvoPrueba": true,
+    "consultaCliente": "Q 1",
+    "resolucionOperador": "Sin intervención de operador",
+    "intencionActual": "DESCONOCIDO",
+    "hiloFormateado": "   🤖 BOT: \"mnet2533\"\n   🤖 BOT: \"Probá copiando y pegando esos dos mensajes en la aplicación y avisame si te funciona 👍\"\n   👤 CLIENTE: \"Q 1\"\n   🤖 BOT: \"🕒 *¡La prueba dura 24 horas corridas desde que se generó!* (no se corta a las 12 de la noche). Como tu usuario (`mnet5274`) se activó a las *14:49 hs*, te va a funcionar hasta *mañana a las 14:49 hs aprox.* (te quedan unas *24 horas* activas). Aprovechala tranquilo y cuando quieras activar un pla\"\n   🤖 BOT: \"¡Hola! 👋 Te avisamos que quedan pocas horas (aprox. *4 hs*) para que finalice tu prueba gratuita de *MNet VPN* (usuario `mnet5274`). ¿Cómo ha sido tu experiencia con la conexión hasta el momento? 🚀 • 💳 Si deseás *activar un plan* para continuar navegando sin cortes (3 días x $2.000, 7 días x $3\""
+  },
+  {
+    "tipoCaso": "BRECHA_EN_MODO_BOT",
+    "usuarioAnonimo": "USR_2463",
+    "paso": 0,
+    "yaTuvoPrueba": true,
+    "consultaCliente": "Eso me salió cuando hago conexión respetando los datos de usuario y contraseña",
+    "resolucionOperador": "Sin intervención de operador",
+    "intencionActual": "DESCONOCIDO",
+    "hiloFormateado": "   🤖 BOT: \"📎 *¡Imagen recibida!* Ya notificamos al operador para que revise tu captura de pantalla y te brinde respuesta en unos minutos. ¡Muchas gracias por aguardar! 🙌🏻\"\n   👤 CLIENTE: \"Eso me salió cuando hago conexión respetando los datos de usuario y contraseña\"\n   👨‍💻 OPERADOR: \"me podes mandar otra captura donde se vea la contraseña?\"\n   👤 CLIENTE: \"Claro\"\n   👨‍💻 OPERADOR: \"el error esta en el ultimo numero de la contraseña\""
+  },
+  {
+    "tipoCaso": "BRECHA_EN_MODO_BOT",
+    "usuarioAnonimo": "USR_2463",
+    "paso": 0,
+    "yaTuvoPrueba": true,
+    "consultaCliente": "Ahora me fijo sr",
+    "resolucionOperador": "Sin intervención de operador",
+    "intencionActual": "DESCONOCIDO",
+    "hiloFormateado": "   👨‍💻 OPERADOR: \"el error esta en el ultimo numero de la contraseña\"\n   👨‍💻 OPERADOR: \"tiene que ser un 6 no un 4\"\n   👤 CLIENTE: \"Ahora me fijo sr\"\n   👤 CLIENTE: \"Tenía toda la razón sr era un 6 en vez del 4 empiezo con la prueba\"\n   👤 CLIENTE: \"1\"\n   👨‍💻 OPERADOR: \"⚠️ *El sistema registra que tu prueba gratuita de 24 horas.* * Si querés activar un plan (desde $2.000 por 3 días o $7.000 el mes completo 💰), respondé con el número *2* o escribí *\"comprar\"*. * Si tuviste algún problema técnico y necesitás hablar con el administrador, escribime *\"ayuda\"*. 🙌🏻\""
+  },
+  {
+    "tipoCaso": "BRECHA_EN_MODO_BOT",
+    "usuarioAnonimo": "USR_9634",
+    "paso": 0,
+    "yaTuvoPrueba": true,
+    "consultaCliente": "Sii porfavor",
+    "resolucionOperador": "Sin intervención de operador",
+    "intencionActual": "DESCONOCIDO",
+    "hiloFormateado": "   👨‍💻 OPERADOR: \"te doy los pasos para que hagas la prueba\"\n   👤 CLIENTE: \"Sii porfavor\"\n   🤖 BOT: \"#📺 TUTORIAL – VIVE ONLINE VPN 🚀 Cómo conectar tu Smart TV paso a paso 🔹 PASO 1: Descargar Downloader 📲 Ingresá a la tienda de aplicaciones de tu Smart TV. 🔎 Buscá Downloader, descargala e instalala. 🔹 PASO 2: Descargar Vive Online VPN 📥 Abrí la aplicación Downloader e ingresá el sigui\"\n   👤 CLIENTE: \"El servidor que me diste para el celular también lo puedo compartir a la TV así la descargo ?\"\n   👨‍💻 OPERADOR: \"creeria que tenes que compartirlo por wifi con el celular\""
+  },
+  {
+    "tipoCaso": "BRECHA_EN_MODO_BOT",
+    "usuarioAnonimo": "USR_9634",
+    "paso": 1,
+    "yaTuvoPrueba": true,
+    "consultaCliente": "Ok ahí veo si puedo y le aviso",
+    "resolucionOperador": "Sin intervención de operador",
+    "intencionActual": "DESCONOCIDO",
+    "hiloFormateado": "   👨‍💻 OPERADOR: \"creeria que tenes que compartirlo por wifi con el celular\"\n   👨‍💻 OPERADOR: \"depende del televisor\"\n   👤 CLIENTE: \"Ok ahí veo si puedo y le aviso\"\n   👨‍💻 OPERADOR: \"dale dale, cualquier cosa avisame\"\n   👤 CLIENTE: \"No no me sirve para conectar en la tele el internet de mí celular\"\n   👨‍💻 OPERADOR: \"podrias pobrar descargarlo de otra forma con alguien que le comparta wifi para descargar la app y despues conectarlo con la app para usarlo de esta forma\""
+  },
+  {
+    "tipoCaso": "BRECHA_EN_MODO_BOT",
+    "usuarioAnonimo": "USR_8458",
+    "paso": 3,
+    "yaTuvoPrueba": true,
+    "consultaCliente": "Queda asi",
+    "resolucionOperador": "Sin intervención de operador",
+    "intencionActual": "DESCONOCIDO",
+    "hiloFormateado": "   🤖 BOT: \"Copiá y pegá esos dos datos en la aplicación para conectarte. Cualquier consulta o novedad, avisanos por acá. 👍\"\n   👤 CLIENTE: \"Queda asi\"\n   🤖 BOT: \"🤖 Disculpá, soy el asistente virtual y no logré comprender tu consulta. • ⏳ *Duración de la prueba:* 24 horas corridas desde su envío. • 📲 *Cómo conectar:* escribí *\"como me conecto\"* para ver los 4 pasos. • 💳 *Precios y planes:* respondé con *2* o escribí *\"comprar\"*. • 🛠️ *Soporte personaliza\"\n   👤 CLIENTE: \"Como me conecto\"\n   🤖 BOT: \"📲 *Conectarte es muy sencillo. Seguí estos 4 pasos:* 1️⃣ Descargá nuestra aplicación oficial desde *Google Play Store* tocando este enlace 🛡️: 👉 https://play.google.com/store/apps/details?id=com.dtunnel.lite.ultranettestes 2️⃣ Abrí la app y, en la lista de servidores, seleccioná: • *Personal\""
+  },
+  {
+    "tipoCaso": "BRECHA_EN_MODO_BOT",
+    "usuarioAnonimo": "USR_9074",
+    "paso": 0,
+    "yaTuvoPrueba": true,
+    "consultaCliente": "Ya la bajé",
+    "resolucionOperador": "Sin intervención de operador",
+    "intencionActual": "DESCONOCIDO",
+    "hiloFormateado": "   👤 CLIENTE: \"Ya la bajé\"\n   👨‍💻 OPERADOR: \"buenísimo, tiene que poner el usuario y contraseña del mensaje\"\n   👨‍💻 OPERADOR: \"y luego donde dice conectar\"\n   👨‍💻 OPERADOR: \"a la hora de conectar tiene que tener el wifi desactivado y los datos móviles activados (no tiene que tener saldo)\""
+  },
+  {
+    "tipoCaso": "BRECHA_EN_MODO_BOT",
+    "usuarioAnonimo": "USR_9074",
+    "paso": 0,
+    "yaTuvoPrueba": true,
+    "consultaCliente": "Bueno",
+    "resolucionOperador": "Sin intervención de operador",
+    "intencionActual": "DESCONOCIDO",
+    "hiloFormateado": "   👨‍💻 OPERADOR: \"a la hora de conectar tiene que tener el wifi desactivado y los datos móviles activados (no tiene que tener saldo)\"\n   👨‍💻 OPERADOR: \"Los datos son porque la app necesita la antena para poder funcionar\"\n   👤 CLIENTE: \"Bueno\"\n   👤 CLIENTE: \"Ok tengo que prender el wifi lo apague se desconete\"\n   👤 CLIENTE: \"Se decoteta cuando apagado el wifi\"\n   👤 CLIENTE: \"No tengo saldo\""
+  },
+  {
+    "tipoCaso": "BRECHA_EN_MODO_BOT",
+    "usuarioAnonimo": "USR_9074",
+    "paso": 0,
+    "yaTuvoPrueba": true,
+    "consultaCliente": "Ok tengo que prender el wifi lo apague se desconete",
+    "resolucionOperador": "Sin intervención de operador",
+    "intencionActual": "DESCONOCIDO",
+    "hiloFormateado": "   👨‍💻 OPERADOR: \"Los datos son porque la app necesita la antena para poder funcionar\"\n   👤 CLIENTE: \"Bueno\"\n   👤 CLIENTE: \"Ok tengo que prender el wifi lo apague se desconete\"\n   👤 CLIENTE: \"Se decoteta cuando apagado el wifi\"\n   👤 CLIENTE: \"No tengo saldo\"\n   👨‍💻 OPERADOR: \"al desconectar el wifi, tiene los datos prendidos?\""
+  },
+  {
+    "tipoCaso": "BRECHA_EN_MODO_BOT",
+    "usuarioAnonimo": "USR_9074",
+    "paso": 0,
+    "yaTuvoPrueba": true,
+    "consultaCliente": "Se decoteta cuando apagado el wifi",
+    "resolucionOperador": "Sin intervención de operador",
+    "intencionActual": "DESCONOCIDO",
+    "hiloFormateado": "   👤 CLIENTE: \"Bueno\"\n   👤 CLIENTE: \"Ok tengo que prender el wifi lo apague se desconete\"\n   👤 CLIENTE: \"Se decoteta cuando apagado el wifi\"\n   👤 CLIENTE: \"No tengo saldo\"\n   👨‍💻 OPERADOR: \"al desconectar el wifi, tiene los datos prendidos?\""
+  },
+  {
+    "tipoCaso": "BRECHA_EN_MODO_BOT",
+    "usuarioAnonimo": "USR_9074",
+    "paso": 0,
+    "yaTuvoPrueba": true,
+    "consultaCliente": "No tengo saldo",
+    "resolucionOperador": "Sin intervención de operador",
+    "intencionActual": "DESCONOCIDO",
+    "hiloFormateado": "   👤 CLIENTE: \"Ok tengo que prender el wifi lo apague se desconete\"\n   👤 CLIENTE: \"Se decoteta cuando apagado el wifi\"\n   👤 CLIENTE: \"No tengo saldo\"\n   👨‍💻 OPERADOR: \"al desconectar el wifi, tiene los datos prendidos?\""
+  },
+  {
+    "tipoCaso": "BRECHA_EN_MODO_BOT",
+    "usuarioAnonimo": "USR_9330",
+    "paso": 0,
+    "yaTuvoPrueba": true,
+    "consultaCliente": "Ok ya se conecto",
+    "resolucionOperador": "Sin intervención de operador",
+    "intencionActual": "DESCONOCIDO",
+    "hiloFormateado": "   👨‍💻 OPERADOR: \"tiene que conectarse a un wifi para darle click a actualizar a la aplicación\"\n   👨‍💻 OPERADOR: \"así se le cargan los servidores\"\n   👤 CLIENTE: \"Ok ya se conecto\"\n   👨‍💻 OPERADOR: \"Buenísimo, ya puede seguir probando\"\n   👨‍💻 OPERADOR: \"lo voy a pasar al bot para que siga atento por si mandas un mensaje y yo no estoy justo.\"\n   👤 CLIENTE: \"Ok gracias\""
+  },
+  {
+    "tipoCaso": "BRECHA_EN_MODO_BOT",
+    "usuarioAnonimo": "USR_9330",
+    "paso": 0,
+    "yaTuvoPrueba": true,
+    "consultaCliente": "Ok gracias",
+    "resolucionOperador": "Sin intervención de operador",
+    "intencionActual": "DESCONOCIDO",
+    "hiloFormateado": "   👨‍💻 OPERADOR: \"Buenísimo, ya puede seguir probando\"\n   👨‍💻 OPERADOR: \"lo voy a pasar al bot para que siga atento por si mandas un mensaje y yo no estoy justo.\"\n   👤 CLIENTE: \"Ok gracias\"\n   👨‍💻 OPERADOR: \"el bot le va a mandar un mensaje pero no es necesario que lo responda, excepto que tenga alguna duda o problema.\"\n   👤 CLIENTE: \"Bueno\"\n   👨‍💻 OPERADOR: \"o desee saber precios y demás\""
+  },
+  {
+    "tipoCaso": "BRECHA_EN_MODO_BOT",
+    "usuarioAnonimo": "USR_9330",
+    "paso": 0,
+    "yaTuvoPrueba": true,
+    "consultaCliente": "Bueno",
+    "resolucionOperador": "Sin intervención de operador",
+    "intencionActual": "DESCONOCIDO",
+    "hiloFormateado": "   👤 CLIENTE: \"Ok gracias\"\n   👨‍💻 OPERADOR: \"el bot le va a mandar un mensaje pero no es necesario que lo responda, excepto que tenga alguna duda o problema.\"\n   👤 CLIENTE: \"Bueno\"\n   👨‍💻 OPERADOR: \"o desee saber precios y demás\"\n   👤 CLIENTE: \"Ok\""
+  },
+  {
+    "tipoCaso": "BRECHA_EN_MODO_BOT",
+    "usuarioAnonimo": "USR_6425",
+    "paso": 0,
+    "yaTuvoPrueba": false,
+    "consultaCliente": "A bien",
+    "resolucionOperador": "Sin intervención de operador",
+    "intencionActual": "DESCONOCIDO",
+    "hiloFormateado": "   👨‍💻 OPERADOR: \"al bot yo lo hice para que maneje cierta cantidad de comandos\"\n   👤 CLIENTE: \"A bien\"\n   👨‍💻 OPERADOR: \"por ejemplo, si necesitas una prueba yo le asigno al bot que te dejé usar un cierto comando para que te dé una prueba por x cantidad de horas\"\n   👨‍💻 OPERADOR: \"eso sí, las cuentas ya confirmadas las manejo yo\"\n   👨‍💻 OPERADOR: \"También hay una aclaración, el servicio por como funciona siempre corre riesgo de que las líneas (personal o claro o la que esté funcionando) cambien su seguridad y te tiren el servicio\""
+  }
+]
